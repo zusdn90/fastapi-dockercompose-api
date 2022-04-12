@@ -26,7 +26,7 @@ docker run --name=dockerapi \
 <your-server>/<imagename>:<tag>
 ```
 
-# test docker-compose.yaml
+# test docker-compose.yml
 ## 파일 생성
 ```yaml
 version: '3'
